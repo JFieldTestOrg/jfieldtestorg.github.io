@@ -1,0 +1,1 @@
+[ { "title": "First Post", "url": "/posts/FirstPost/", "categories": "howto", "tags": "helloworld", "date": "2022-09-19 12:22:00 +0100", "snippet": "First Postthis is the first post in my orgnisation docs siteWrite-Host \"This is some powershell code\"console.log('this is some javascript code)echo \"This is some bash code\"name: this is some yaml codelist: - item 1 - item 2" } ]
